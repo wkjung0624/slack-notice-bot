@@ -1,0 +1,15 @@
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/bin/Debug/net8.0/slack-notice-bot-with-csharp
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/bin/Debug/net8.0/slack-notice-bot-with-csharp.deps.json
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/bin/Debug/net8.0/slack-notice-bot-with-csharp.runtimeconfig.json
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/bin/Debug/net8.0/slack-notice-bot-with-csharp.dll
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/bin/Debug/net8.0/slack-notice-bot-with-csharp.pdb
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.AssemblyInfoInputs.cache
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.AssemblyInfo.cs
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.csproj.CoreCompileInputs.cache
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.sourcelink.json
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.dll
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/refint/slack-notice-bot-with-csharp.dll
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.pdb
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/slack-notice-bot-with-csharp.genruntimeconfig.cache
+/Users/mightyotter/Documents/GitHub/slack-notice-bot-with-csharp/obj/Debug/net8.0/ref/slack-notice-bot-with-csharp.dll
