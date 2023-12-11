@@ -7,7 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string webhookUrl = "WEB_HOOK_URL"; // 여기에 Slack Webhook URL을 입력하세요
+        string webhookUrl = "https://hooks.slack.com/services/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"; // 여기에 Slack Webhook URL을 입력하세요
         string message = "Slack 메시지를 전송합니다~!";
 
         await SendSlackNotification(webhookUrl, message);
